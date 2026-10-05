@@ -156,3 +156,4 @@ Khi chạy lệnh `python main.py`, bạn nhập số từ **1** đến **9** ho
 4. **Nhận diện báo `Unknown` dù đã đăng ký:**
    - Đứng ở nơi đủ ánh sáng, nhìn thẳng vào camera.
    - Đảm bảo bạn đã chạy lệnh cài đặt: `pip install opencv-contrib-python`.
+# Face-Attendance-System
