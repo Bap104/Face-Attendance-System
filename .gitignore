@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.onnx
+*.pt
+*.h5
+dataset/known_faces/*
+!dataset/known_faces/.gitkeep
+data/attendance.csv
+data/*.db
+models/*.onnx
+models/*.bin
+models/*.param
+.idea/
+.vscode/
